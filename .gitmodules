@@ -1,0 +1,9 @@
+[submodule "scratch-runtime/scratch-blocks"]
+	path = scratch-runtime/scratch-blocks
+	url = git@github.com:benw10-1/scratch-blocks.git
+[submodule "scratch-runtime/scratch-vm"]
+	path = scratch-runtime/scratch-vm
+	url = git@github.com:benw10-1/scratch-vm.git
+[submodule "scratch-runtime/scratch-gui"]
+	path = scratch-runtime/scratch-gui
+	url = git@github.com:benw10-1/scratch-gui.git
